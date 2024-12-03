@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thiago Tristan - Materiais de Construção</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Thiago Tristan</h1>
+    <p>Valores de materiais de construção em um só lugar</p>
+  </header>
+  
+  <main>
+    <section id="materials">
+      <h2>Lista de Materiais</h2>
+      <table>
+        <tr>
+          <th>Material</th>
+          <th>Preço</th>
+        </tr>
+        <tr>
+          <td>Cimento</td>
+          <td>R$ 35,00</td>
+        </tr>
+        <tr>
+          <td>Areia</td>
+          <td>R$ 40,00 por m³</td>
+        </tr>
+        <tr>
+          <td>Tijolo</td>
+          <td>R$ 1,20 por unidade</td>
+        </tr>
+      </table>
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2024 Thiago Tristan. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
